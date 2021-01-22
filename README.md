@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Zongxian Feng
 
 <!--
 **xxxfzxxx/xxxfzxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zfeng13@illinois.edu
 - ⚡ Fun fact: I love CS. I love Math.
 -->
+🔭 I’m currently studying in the University of Illinois Urbana, Champaign
+🌱 I’m currently learning Database System, Data Mining, and Artifical Intelligence
+📫 How to reach me: zfeng13@illinois.edu
